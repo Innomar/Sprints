@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Additional_Health_Info_Temp__c.Appointment_Date__c</members>
+        <members>Additional_Health_Info_Temp__c.Assessment_not_performed__c</members>
+        <members>Additional_Health_Info_Temp__c.Harvey_Bradshaw_Index_Score_HBI__c</members>
+        <members>Additional_Health_Info_Temp__c.Partial_Mayo_Score__c</members>
+        <members>Additional_Health_Info_Temp__c.Rectal_Bleeding_Subscore_Only__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Additional_Health_Info_Temp__c-Entyvio</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Case Manager</members>
+        <members>Program Manager</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>Additional_Health_Info_Temp__c.Entyvio</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>Additional_Health_Info_Temp__c.Appointment_Date_Cannot_be_a_Future_Date</members>
+        <members>Additional_Health_Info_Temp__c.Appointment_Date_is_Mandatory_When</members>
+        <members>Additional_Health_Info_Temp__c.HBI_cannot_be_a_negative_number</members>
+        <members>Additional_Health_Info_Temp__c.Partial_Mayo_Score_c</members>
+        <members>Additional_Health_Info_Temp__c.Rectal_Bleeding_Subscore_Only</members>
+        <name>ValidationRule</name>
+    </types>
+    <version>44.0</version>
+</Package>
